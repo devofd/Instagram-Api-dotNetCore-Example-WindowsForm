@@ -17,7 +17,7 @@ namespace InstaApiInstance
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new InstaApiInstance(new LoginManeger()));
+            Application.Run(new InstaApiInstance(new LoginManeger(),new MessageManeger()));
         }
     }
 }
