@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstaApiInstance", "InstaApiInstance\InstaApiInstance.csproj", "{C7234ED1-BA6E-48C0-ABD1-78311012B608}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstaApi.Business", "InstaApi.Business\InstaApi.Business.csproj", "{EB80106D-39DA-4701-86CD-DFB4B805F11D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstaApi.Entities", "InstaApi.Entities\InstaApi.Entities.csproj", "{1F12BA3D-03DB-412C-B82E-588F1B4F6F73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C7234ED1-BA6E-48C0-ABD1-78311012B608}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7234ED1-BA6E-48C0-ABD1-78311012B608}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7234ED1-BA6E-48C0-ABD1-78311012B608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB80106D-39DA-4701-86CD-DFB4B805F11D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB80106D-39DA-4701-86CD-DFB4B805F11D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB80106D-39DA-4701-86CD-DFB4B805F11D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB80106D-39DA-4701-86CD-DFB4B805F11D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F12BA3D-03DB-412C-B82E-588F1B4F6F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F12BA3D-03DB-412C-B82E-588F1B4F6F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F12BA3D-03DB-412C-B82E-588F1B4F6F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F12BA3D-03DB-412C-B82E-588F1B4F6F73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
